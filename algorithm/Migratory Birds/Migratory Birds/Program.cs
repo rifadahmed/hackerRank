@@ -15,7 +15,7 @@ namespace RectangleApplication
             var n = ReadLine().Split(' ');
             int maxx = 0, temp = 0, index = 0;
 
-
+            
             var ar = Array.ConvertAll(n, int.Parse);
             for (int i = 0; i < ar.Length; i++)
             {
