@@ -1,4 +1,7 @@
-﻿using System;
+﻿//author :rifad ahmed
+// problem link : https://www.hackerrank.com/challenges/migratory-birds/problem
+//my profile : https://www.hackerrank.com/rifad_ahmed
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
